@@ -24,11 +24,10 @@ var ball = {
 var rightWristY = 0;
 var rightWristX = 0;
 var scoreRightWrist = 0;
-var game_status = "";
 
 //Define a variable to hold the status of the game
 
- 
+var game_status = "";
 
 function setup(){
 var canvas =  createCanvas(700,600);
